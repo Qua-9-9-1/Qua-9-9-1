@@ -5,6 +5,10 @@ I'm a very early developper (I just started to code one year ago);
 I have exeperience with 🪟- Windows and 🐧- LINUX : Ubuntu and Debian (also a little bit with ArchLinux). I never touched MacOS.;
 
 ```markdown
+✅ = "I have exeperience with that";
+📝 = "seen or currently working on";
+❌ = "Not seen for now";
+
 After a year of coding experience, I'm starting to discover new languages {
       🅒- C ✅;              🐍- Python ✅;      🦀- Rust 📝;
       💎- Ruby ✅;          🐘- PHP 📝;         🛡️- Javascript (and typescript) 📝;
@@ -62,7 +66,7 @@ I also have to use different tools (libraries, frameworks, IDE, etc...) {
       Nginx ❌;
   };
 
-};
+} Tools-I-intend-to-try;
 ```
 <br/>
 As you see I'm very curious and motivated to discover new technologies.<br/>
