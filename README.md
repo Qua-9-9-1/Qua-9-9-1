@@ -5,13 +5,13 @@ I'm a very early developper (I just started to code one year ago);
 I have exeperience with 🪟- Windows and 🐧- LINUX : Ubuntu and Debian (also a little bit with ArchLinux). I never touched MacOS.;
 
 After a year of coding experience, I'm starting to discover new languages {<br/>
-\t\t	🅒- C ✅;\t\t          🐍- Python ✅;\t\t      🦀- Rust 📝;<br/>
-\t\t	💎- Ruby ✅;\t\t       🐘- PHP 📝;\t\t        🛡️- Javascript (and typescript) 📝;<br/>
-\t\t	🧠- Brainfuck✅;\t\t   🌑- LUA ❌;\t\t        ➕- C++ ❌;<br/>
-\t\t	🍵- Java ❌;\t\t       λ=- Haskell❌;\t\t     📐- Kotlin ❌;<br/>
-\t\t	#️⃣- C# ❌;\t\t         🕊- Swift ❌;\t\t      🪜- Scala ❌;<br/>
-\t\t	🦫- Go ❌;\t\t         🐪- Perl ❌;\t\t       🔢- MathLab ❌;<br/>
-\t\t	⛎- Clojure❌;\t\t     🕰️- BASIC ❌;\t\t      🔧- Assembly ❌;<br/>
+      🅒- C ✅;              🐍- Python ✅;          🦀- Rust 📝;<br/>
+      💎- Ruby ✅;\t\t       🐘- PHP 📝;\t\t        🛡️- Javascript (and typescript) 📝;<br/>
+      🧠- Brainfuck✅;\t\t   🌑- LUA ❌;\t\t        ➕- C++ ❌;<br/>
+      🍵- Java ❌;\t\t       λ=- Haskell❌;\t\t     📐- Kotlin ❌;<br/>
+      #️⃣- C# ❌;\t\t         🕊- Swift ❌;\t\t      🪜- Scala ❌;<br/>
+      🦫- Go ❌;\t\t         🐪- Perl ❌;\t\t       🔢- MathLab ❌;<br/>
+      ⛎- Clojure❌;\t\t     🕰️- BASIC ❌;\t\t      🔧- Assembly ❌;<br/>
 } Languages_I_intend_to_learn;<br/>
 <br/>
 I also have to use different tools (libraries, frameworks, IDE, etc...) {<br/>
