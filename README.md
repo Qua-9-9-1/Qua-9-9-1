@@ -13,10 +13,9 @@ After a year of coding experience, I'm starting to discover new languages {
       #️⃣- C# ❌;            🕊- Swift ❌;       🪜- Scala ❌;
       🦫- Go ❌;            🐪- Perl ❌;        🔢- MathLab ❌;
       ⛎- Clojure❌;        🕰️- BASIC ❌;       🔧- Assembly ❌;
-} Languages_I_intend_to_learn;<br/>
-```
-<br/>
-```markdown
+} Languages_I_intend_to_learn;
+
+
 I also have to use different tools (libraries, frameworks, IDE, etc...) {
   Code editors {
       VScode ✅;       Sublime Text ✅;     Vim 📝;
