@@ -2,63 +2,63 @@
 
 I'm a very early developper (I just started to code one year ago);
 
-I have exeperience with 🪟- Windows and 🐧- LINUX : Ubuntu and Debian (also a little bit with ArchLinux);
+I have exeperience with 🪟- Windows and 🐧- LINUX : Ubuntu and Debian (also a little bit with ArchLinux). I never touched MacOS.;
 
 After a year of coding experience, I'm starting to discover new languages {<br/>
-	🅒- C ✅;          🐍- Python ✅;      🦀- Rust 📝;<br/>
-	💎- Ruby ✅;       🐘- PHP 📝;        🛡️- Javascript (and typescript) 📝;<br/>
-	🧠- Brainfuck✅;   🌑- LUA ❌;        ➕- C++ ❌;<br/>
-	🍵- Java ❌;       λ=- Haskell❌;     📐- Kotlin ❌;<br/>
-	#️⃣- C# ❌;         🕊- Swift ❌;      🪜- Scala ❌;<br/>
-	🦫- Go ❌;         🐪- Perl ❌;        - MathLab ❌;<br/>
-	⛎- Clojure❌;     🕰️- BASIC ❌;      🔧- Assembly ❌;<br/>
+\t\t	🅒- C ✅;\t\t          🐍- Python ✅;\t\t      🦀- Rust 📝;<br/>
+\t\t	💎- Ruby ✅;\t\t       🐘- PHP 📝;\t\t        🛡️- Javascript (and typescript) 📝;<br/>
+\t\t	🧠- Brainfuck✅;\t\t   🌑- LUA ❌;\t\t        ➕- C++ ❌;<br/>
+\t\t	🍵- Java ❌;\t\t       λ=- Haskell❌;\t\t     📐- Kotlin ❌;<br/>
+\t\t	#️⃣- C# ❌;\t\t         🕊- Swift ❌;\t\t      🪜- Scala ❌;<br/>
+\t\t	🦫- Go ❌;\t\t         🐪- Perl ❌;\t\t       🔢- MathLab ❌;<br/>
+\t\t	⛎- Clojure❌;\t\t     🕰️- BASIC ❌;\t\t      🔧- Assembly ❌;<br/>
 } Languages_I_intend_to_learn;<br/>
 <br/>
 I also have to use different tools (libraries, frameworks, IDE, etc...) {<br/>
-  Code editors {<br/>
-      VScode ✅;       Sublime Text ✅;     Vim 📝;<br/>
-      NeoVim ✅;       Nano ✅;             Emacs ✅;<br/>
-      DevC++ ✅;       Code::Blocks ✅;     Notepad++ ✅;<br/>
-      EduPython ✅;    Spyder3 ✅;          JetBrains(series) ❌;<br/>
-      Atom ❌;         Brackets ❌;<br/>
-  };<br/>
+\t  Code editors {<br/>
+\t\t      VScode ✅;       Sublime Text ✅;     Vim 📝;<br/>
+\t\t      NeoVim ✅;       Nano ✅;             Emacs ✅;<br/>
+\t\t      DevC++ ✅;       Code::Blocks ✅;     Notepad++ ✅;<br/>
+\t\t      EduPython ✅;    Spyder3 ✅;          JetBrains(series) ❌;<br/>
+\t\t      Atom ❌;         Brackets ❌;<br/>
+\t  };<br/>
   <br/>
-  Web dev tools {<br/>
-      Docker 📝;   Git ✅;<br/>
-      Node.js ✅;  Npm ✅;     Yarn ❌;<br/>
-      React 📝;    VUE.js 📝;  Angular ❌;<br/>
-      jQuery 📝;<br/>
-  };<br/>
+\t  Web dev tools {<br/>
+\t\t      Docker 📝;   Git ✅;<br/>
+\t\t      Node.js ✅;  Npm ✅;     Yarn ❌;<br/>
+\t\t      React 📝;    VUE.js 📝;  Angular ❌;<br/>
+\t\t      jQuery 📝;<br/>
+\t  };<br/>
 <br/>
-  Deployment and hosting tools {<br/>
-      Heroku 📝;<br/>
-      Firebase ❌;<br/>
-  };<br/>
+\t  Deployment and hosting tools {<br/>
+\t\t      Heroku 📝;<br/>
+\t\t      Firebase ❌;<br/>
+\t  };<br/>
   <br/>
-  Database gestion {<br/>
-      MongoDB ❌;<br/>
-      MySQL(Maria DB) 📝;<br/>
-      PostgreSQL 📝;<br/>
-      Redis ❌;<br/>
-  };<br/>
+\t  Database gestion {<br/>
+\t\t      MongoDB ❌;<br/>
+\t\t      MySQL(Maria DB) 📝;<br/>
+\t\t      PostgreSQL 📝;<br/>
+\t\t      Redis ❌;<br/>
+\t  };<br/>
 <br/>
-  Frameworks and plateforms {<br/>
-      .NET ❌;      Flutter ❌;    Symfony 📝;<br/>
-      Laravel ❌;   Spring ❌;     Django ❌;<br/>
-      Hadoop ❌;<br/>
-  };<br/>
+\t  Frameworks and plateforms {<br/>
+\t\t      .NET ❌;      Flutter ❌;    Symfony 📝;<br/>
+\t\t      Laravel ❌;   Spring ❌;     Django ❌;<br/>
+\t\t      Hadoop ❌;<br/>
+\t  };<br/>
 <br/>
-  Dependencies gestion {<br/>
-      Composer 📝;<br/>
-      Yeoman ❌;<br/>
-      Gulp ❌;<br/>
-  };<br/>
+\t  Dependencies gestion {<br/>
+\t\t      Composer 📝;<br/>
+\t\t      Yeoman ❌;<br/>
+\t\t      Gulp ❌;<br/>
+\t  };<br/>
 <br/>
-  Servers and engines {<br/>
-      V8 ❌;<br/>
-      JADE ❌;<br/>
-      Nginx; ❌ <br/>
-  };<br/>
+\t  Servers and engines {<br/>
+\t\t      V8 ❌;<br/>
+\t\t      JADE ❌;<br/>
+\t\t      Nginx; ❌ <br/>
+\t  };<br/>
 <br/>
 };<br/>
 <br/>
