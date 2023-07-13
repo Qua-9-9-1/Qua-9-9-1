@@ -5,7 +5,7 @@ I'm a very early developper (I just started to code one year ago);
 I have exeperience with 🪟- Windows and 🐧- LINUX : Ubuntu and Debian (also a little bit with ArchLinux). I never touched MacOS.;
 
 After a year of coding experience, I'm starting to discover new languages {<br/>
-      🅒- C ✅;              🐍- Python ✅;          🦀- Rust 📝;<br/>
+&ensp  🅒- C ✅;&emsp              🐍- Python ✅;&emsp          🦀- Rust 📝;<br/>
       💎- Ruby ✅;\t\t       🐘- PHP 📝;\t\t        🛡️- Javascript (and typescript) 📝;<br/>
       🧠- Brainfuck✅;\t\t   🌑- LUA ❌;\t\t        ➕- C++ ❌;<br/>
       🍵- Java ❌;\t\t       λ=- Haskell❌;\t\t     📐- Kotlin ❌;<br/>
