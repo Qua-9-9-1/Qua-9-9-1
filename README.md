@@ -11,7 +11,7 @@ I have exeperience with 🪟- Windows and 🐧- LINUX : Ubuntu and Debian (also 
 
 After a year of coding experience, I'm starting to discover new languages {
       🅒- C ✅;              🐍- Python ✅;      🦀- Rust 📝;
-      💎- Ruby ✅;          🐘- PHP 📝;         🛡️- Javascript (and typescript) 📝;
+      💎- Ruby ✅;          🐘- PHP 📝;         🛡️- Javascript (and Typescript) 📝;
       🧠- Brainfuck✅;      🌑- LUA ❌;         ➕- C++ ❌;
       🍵- Java ❌;          λ=- Haskell❌;      📐- Kotlin ❌;
       #️⃣- C# ❌;            🕊- Swift ❌;       🪜- Scala ❌;
@@ -32,7 +32,6 @@ I also have to use different tools (libraries, frameworks, IDE, etc...) {
   Web dev tools {
       Docker 📝;   Git ✅;
       Node.js ✅;  Npm ✅;     Yarn ❌;
-      React 📝;    VUE.js 📝;  Angular ❌;
       jQuery 📝;
   };
 
@@ -49,6 +48,7 @@ I also have to use different tools (libraries, frameworks, IDE, etc...) {
   };
 
   Frameworks and plateforms {
+      React 📝;    VUE.js 📝;  Angular ❌;
       .NET ❌;      Flutter ❌;    Symfony 📝;
       Laravel ❌;   Spring ❌;     Django ❌;
       Hadoop ❌;
