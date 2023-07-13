@@ -5,7 +5,7 @@ I'm a very early developper (I just started to code one year ago);
 I have exeperience with 🪟- Windows and 🐧- LINUX : Ubuntu and Debian (also a little bit with ArchLinux);
 
 After a year of coding experience, I'm starting to discover new languages {
-	🅒- C ✅;          🐍- Python ✅;      🦀- Rust 📝;
+	🅒- C ✅;<br/>          🐍- Python ✅;      🦀- Rust 📝;
 	💎- Ruby ✅;       🐘- PHP 📝;        🛡️- Javascript (and typescript) 📝;
 	🧠- Brainfuck✅;   🌑- LUA ❌;        ➕- C++ ❌;
 	🍵- Java ❌;       λ=- Haskell❌;     📐- Kotlin ❌;
