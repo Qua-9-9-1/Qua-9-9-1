@@ -23,7 +23,7 @@ After a year of coding experience, I'm starting to discover new languages {
 I also have to use different tools (libraries, frameworks, IDE, etc...) {
   Code editors {
       VScode ✅;       Sublime Text ❌;     Vim 📝;
-      NeoVim ✅;       Nano ✅;             Emacs ✅;
+      NeoVim 📝;       Nano ✅;             Emacs ✅;
       DevC++ ✅;       Code::Blocks ✅;     Notepad++ ✅;
       EduPython ✅;    Spyder3 ✅;          JetBrains(series) ❌;
       Atom ❌;         Brackets ❌;
