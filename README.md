@@ -12,11 +12,11 @@ I have exeperience with 🪟- Windows and 🐧- LINUX : Ubuntu and Debian (also 
 After a year of coding experience, I'm starting to discover new languages {
       🅒- C ✅;              🐍- Python ✅;      🦀- Rust 📝;
       💎- Ruby ✅;          🐘- PHP 📝;         🛡️- Javascript (and Typescript) 📝;
-      🧠- Brainfuck✅;      🌑- LUA ❌;         ➕- C++ 📝;
-      🍵- Java ❌;          λ=- Haskell❌;      📐- Kotlin ❌;
+      🧠- Brainfuck ✅;     🌑- LUA ❌;         ➕- C++ 📝;
+      🍵- Java ❌;          λ=- Haskell ❌;     📐- Kotlin ❌;
       #️⃣- C# ❌;            🕊- Swift ❌;       🪜- Scala ❌;
       🦫- Go ❌;            🐪- Perl ❌;        🔢- MathLab ❌;
-      ⛎- Clojure❌;        🕰️- BASIC ❌;       🔧- Assembly ❌;
+      ⛎- Clojure ❌;       🕰️- BASIC ❌;       🔧- Assembly ❌;
 } Languages_I_intend_to_learn;
 ```
 <!--
