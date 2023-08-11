@@ -18,7 +18,7 @@ After a year of coding experience, I'm starting to discover new languages {
       🦫- Go ❌;            🐪- Perl ❌;        🔢- MathLab ❌;
       ⛎- Clojure❌;        🕰️- BASIC ❌;       🔧- Assembly ❌;
 } Languages_I_intend_to_learn;
-
+```
 <!--
 I also have to use different tools (libraries, frameworks, IDE, etc...) {
   Code editors {
@@ -66,8 +66,8 @@ I also have to use different tools (libraries, frameworks, IDE, etc...) {
       Nginx ❌;
   };
 
-} Tools-I-intend-to-try; -->
-```
+} Tools-I-intend-to-try;
+``` -->
 <br/>
 As you see I'm very curious and motivated to discover new technologies.<br/>
 So I hope next time you'll see my profile, I'd have learned new things.<br/>
