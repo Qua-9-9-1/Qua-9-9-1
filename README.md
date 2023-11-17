@@ -1,6 +1,6 @@
 ### Hi there, I'm Quentin,
 
-I'm a very early developper (I just started to code one year ago);
+I'm a relatively new developer (I just started to code one year ago);
 
 I have exeperience with 🪟- Windows and 🐧- LINUX : Ubuntu and Debian (also a little bit with ArchLinux). I never touched MacOS.;
 
