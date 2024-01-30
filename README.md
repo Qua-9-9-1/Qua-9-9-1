@@ -1,6 +1,23 @@
-### Hi there, I'm Quentin,
+## Hi there, I'm Quentin! 👋
 
-I'm a relatively new developer (I just started to code one year ago);
+I embarked on my coding journey just a year ago, making me a junior developer eager to learn and grow.
+
+🛠️ **Tech Environments:**
+- Former Ubuntu and Debian user, currently exploring the world of Manjaro.
+- No hands-on experience with MacOS, and I prefer steering clear of Windows for coding.
+- Proficient in VSCode for regular development, however, for potential security reasons, I am also comfortable using Vim.
+
+💻 **Technical Experience:**
+- **C:** One year of hands-on experience with diverse projects.
+- **Web Development:** Six months of dedicated work with React.js.
+- **Versatility:** I've also dabbled in various other languages, contributing to light projects.
+- **Current Focus:** Currently working on C++.
+
+🌱 **Constantly Learning:**
+- Eager to expand my knowledge and tackle new challenges.
+- Actively working on honing my coding skills and exploring new technologies.
+
+<!-- 
 
 I have exeperience with 🪟- Windows and 🐧- LINUX : Ubuntu and Debian (also a little bit with ArchLinux). I never touched MacOS.;
 
@@ -19,7 +36,7 @@ After a year of coding experience, I'm starting to discover new languages {
       ⛎- Clojure ❌;       🕰️- BASIC ❌;       🔧- Assembly ❌;
 } Languages_I_intend_to_learn;
 ```
-<!--
+
 I also have to use different tools (libraries, frameworks, IDE, etc...) {
   Code editors {
       VScode ✅;       Sublime Text ❌;     Vim 📝;
