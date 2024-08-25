@@ -1,17 +1,18 @@
 ## Hi there, I'm Quentin! 👋
 
-I embarked on my coding journey just a year ago, making me a junior developer eager to learn and grow.
+I embarked on my coding journey just two years ago, making me a junior developer eager to learn and grow.
 
 🛠️ **Tech Environments:**
-- Former Ubuntu and Debian user, currently exploring the world of Manjaro.
+- Former Ubuntu and Debian user, I explored Manjaro but prefer Debian-based systems.
 - No hands-on experience with MacOS, and I prefer steering clear of Windows for coding.
 - Proficient in VSCode for regular development, however, for potential security reasons, I am also comfortable using Vim.
 
 💻 **Technical Experience:**
 - **C:** One year of hands-on experience with diverse projects.
+- **C++** Another year of experiences with other diverse projects.
 - **Web Development:** Six months of dedicated work with React.js.
 - **Versatility:** I've also dabbled in various other languages, contributing to light projects.
-- **Current Focus:** Currently working on C++.
+- **Current Focus:** Currently working on advanced C++.
 
 🌱 **Constantly Learning:**
 - Eager to expand my knowledge and tackle new challenges.
