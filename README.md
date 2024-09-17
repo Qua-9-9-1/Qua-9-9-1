@@ -12,7 +12,7 @@ I embarked on my coding journey just two years ago, making me a junior developer
 - **C++** Another year of experiences with other diverse projects.
 - **Web Development:** Six months of dedicated work with React.js.
 - **Versatility:** I've also dabbled in various other languages, contributing to light projects.
-- **Current Focus:** Currently working on advanced C++.
+- **Current Focus:** Currently working on advanced projects.
 
 🌱 **Constantly Learning:**
 - Eager to expand my knowledge and tackle new challenges.
