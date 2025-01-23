@@ -3,7 +3,7 @@
 I embarked on my coding journey just two years ago, making me a junior developer eager to learn and grow.
 
 🛠️ **Tech Environments:**
-- Former Ubuntu and Debian user, I explored Manjaro but prefer Debian-based systems.
+- Former Ubuntu and Debian user, I explored Manjaro and I'm currently using ArchLinux for my work.
 - No hands-on experience with MacOS, and I prefer steering clear of Windows for coding.
 - Proficient in VSCode for regular development, however, for potential security reasons, I am also comfortable using Vim.
 
