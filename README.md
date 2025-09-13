@@ -1,6 +1,6 @@
 ## Hi there, I'm Quentin! 👋
 
-I embarked on my coding journey just two years ago, making me a junior developer eager to learn and grow.
+I embarked on my coding journey three years ago, making me a junior developer eager to learn and grow.
 
 🛠️ **Tech Environments:**
 - Former Ubuntu and Debian user, I explored Manjaro and I'm currently using ArchLinux for my work.
@@ -9,14 +9,16 @@ I embarked on my coding journey just two years ago, making me a junior developer
 
 💻 **Technical Experience:**
 - **C:** One year of hands-on experience with diverse projects.
-- **C++** Another year of experiences with other diverse projects.
+- **C++:** Another year of experiences with other diverse projects.
 - **Web Development:** Six months of dedicated work with React.js.
+- **DevOps:** Four months of dedicated work with various tools.
 - **Versatility:** I've also dabbled in various other languages, contributing to light projects.
-- **Current Focus:** Currently working on advanced projects.
+- **Electronics:** I've been working on several arduino project with various components.
+- **Current Focus:** Currently learning advanced theory of development.
 
 🌱 **Constantly Learning:**
 - Eager to expand my knowledge and tackle new challenges.
-- Actively working on honing my coding skills and exploring new technologies.
+- Actively working on honing my coding and electronic skills by exploring new technologies.
 
 <!-- 
 
@@ -28,13 +30,13 @@ I have exeperience with 🪟- Windows and 🐧- LINUX : Ubuntu and Debian (also 
 ❌ = "Not seen for now";
 
 After a year of coding experience, I'm starting to discover new languages {
-      🅒- C ✅;              🐍- Python ✅;      🦀- Rust 📝;
-      💎- Ruby ✅;          🐘- PHP 📝;         🛡️- Javascript (and Typescript) ✅;
-      🧠- Brainfuck ✅;     🌑- LUA ❌;         ➕- C++ 📝;
-      🍵- Java ❌;          λ=- Haskell 📝;     📐- Kotlin ❌;
+      🅒- C ✅;              🐍- Python ✅;      🦀- Rust ✅;
+      💎- Ruby ✅;          🐘- PHP ✅;         🛡️- Javascript (and Typescript) ✅;
+      🧠- Brainfuck ✅;     🌑- LUA ✅;         ➕- C++ ✅;
+      🍵- Java ❌;          λ=- Haskell ✅;     📐- Kotlin ❌;
       #️⃣- C# ❌;            🕊- Swift ❌;       🪜- Scala ❌;
       🦫- Go ❌;            🐪- Perl ❌;        🔢- MathLab ❌;
-      ⛎- Clojure ❌;       🕰️- BASIC ❌;       🔧- Assembly ❌;
+      ⛎- Clojure ❌;       🕰️- BASIC ❌;       🔧- Assembly ✅;
 } Languages_I_intend_to_learn;
 ```
 
