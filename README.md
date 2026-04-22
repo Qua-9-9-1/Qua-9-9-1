@@ -1,6 +1,6 @@
 ## Hi there, I'm Quentin! 👋
 
-I embarked on my coding journey three years ago, making me a junior developer eager to learn and grow.
+I embarked on my coding journey four years ago, making me a junior developer eager to learn and grow.
 
 🛠️ **Tech Environments:**
 - Former Ubuntu and Debian user, I explored Manjaro and I'm currently using ArchLinux ans Windows for my work.
